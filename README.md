@@ -15,7 +15,7 @@ A versatile media downloader application built in Rust that supports downloading
 
 Before running the application, ensure you have:
 
-1. Rust and Cargo installed (https://rustup.rs/)
+1. Rust and Cargo installed   (https://rustup.rs/)
 2. yt-dlp installed (the application will attempt to install it if missing)
 
 ## Installation
