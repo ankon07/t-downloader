@@ -22,7 +22,7 @@ Before running the application, ensure you have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/video-downloader.git
+   git clone https://github.com/ankon07/t-downloader.git
    cd video-downloader
    ```
 
